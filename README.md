@@ -8,6 +8,8 @@ The purpose of this repository will show how
 - Add new columns to the data frame
 - Split the data frame into multiple new CSV files
 
+[Full script here](0_Process_Data.R)
+
 ## Create File Paths
 
 ```r
